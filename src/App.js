@@ -4,7 +4,8 @@ import HomePage from 'pages/homepage/homepage';
 function App() {
   return (
     <>
-    <HomePage/>
+    <HomePage />
+    <HomePage />
     </>
   );
 }
